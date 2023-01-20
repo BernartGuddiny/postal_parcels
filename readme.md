@@ -12,7 +12,7 @@ This project looks like a template for analyzing the work of postal companies. H
 - accept_date — accept the date of the parcel;
 - index_id — the postcode where the parcel was accepted;
 - weight — parcel weight in grams;
-- price — the tariff paid for sending the parcel in cents;
+- price — the tariff paid for sending the parcel in dollars;
 - client_type — type of client (individual, legal entity).
 2. Information about objects:
 - index_id — the postcode;
