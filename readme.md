@@ -21,3 +21,4 @@ This project looks like a template for analyzing the work of postal companies. H
 
 ### **The main goals of this project:**
 - To find the average postage and the average parcel weight of each postcode.
+- To display the number of postal parcels broken down by postcode. Take into account only those postal parcels weighing more than 10 kg. Display the percentage of the total number of postal parcels to the found postal parcels.
