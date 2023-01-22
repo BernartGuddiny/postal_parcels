@@ -18,3 +18,6 @@ This project looks like a template for analyzing the work of postal companies. H
 - index_id — the postcode;
 - area — area where there is the post office;
 - population — the popelation of the locality in which the post office is located.
+
+### **The main goals of this project:**
+- To find the average postage and the average parcel weight of each postcode.
