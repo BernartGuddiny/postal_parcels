@@ -26,3 +26,8 @@ This project looks like a template for analyzing the work of postal companies. H
 - To display IDs of parcels, the weight of which is strictly greather than the average in the database;
 - To display IDs of parcels, the area, the population of the locality and the cost of sending the parcel with the maximum weight in the each post office;
 - To compile the distribution of the number of postal parcels according to the cost of sending.
+
+### **Conclusions**
+Work has been done on the presentation of data on postal parcels and the search for their optimization. I found the average weights of parcels, their cost, distribution by postal codes and much more. All this will help to make decisions in each postal company, only it will be necessary to interpret the data of that postal company. At the end of the data analysis, the distribution of the number of postal parcels by the cost of sending was constructed. The distribution showed that most parcels are concentrated in the low price category. It can be concluded that due to the normal distribution of data, postal companies will most often have parcels of lower price. The average postage price for postal codes will be about $16,000.
+
+For more details, please refer to the the **full analysis**.
