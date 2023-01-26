@@ -24,4 +24,5 @@ This project looks like a template for analyzing the work of postal companies. H
 - To display the number of postal parcels broken down by postcode. Take into account only those postal parcels weighing more than 10 kg. Display the percentage of the total number of postal parcels to the found postal parcels;
 - To display the number of postal parcels by type of client and population group of the locality where the parcel was accepted;
 - To display IDs of parcels, the weight of which is strictly greather than the average in the database;
-- To display IDs of parcels, the area, the population of the locality and the cost of sending the parcel with the maximum weight in the each post office.
+- To display IDs of parcels, the area, the population of the locality and the cost of sending the parcel with the maximum weight in the each post office;
+- To compile the distribution of the number of postal parcels according to the cost of sending.
